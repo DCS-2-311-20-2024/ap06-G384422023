@@ -168,11 +168,7 @@ function init() {
     camera.updateProjectionMatrix();
     renderer.setSize(canvasWidth, canvasHeight);
     cssRenderer.setSize(canvasWidth, canvasHeight);
-
-
-
-
-
+    
   });
   
   // GUIコントローラ
